@@ -15,4 +15,4 @@
 <h2>Donations</h2>
 <p>If you found this bot helpful, consider supporting me by making a donation. Any amount, no matter how small, is greatly appreciated.</p>
 
-<a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg" alt="Donate"></a>
+<a href="https://www.buymeacoffee.com/furkankoykiran"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg" alt="Donate"></a>
